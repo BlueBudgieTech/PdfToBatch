@@ -1,5 +1,3 @@
 @echo off
-	taskkill /f /im explorer.exe
-	timeout /t 5
-	start explorer.exe
+	echo Hi! I'm a former PDF file, now a batch file!
 	ren change.bat change.pdf
