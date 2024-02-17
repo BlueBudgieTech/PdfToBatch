@@ -1,5 +1,5 @@
 # How to run code from a pdf file
-A demo of how to run code from a pdf file (it can be any file, for the sake of simplicity, pdf files are used for this demo)
+A demo of how to run code from a pdf file (it can be any file extention, for the sake of simplicity, pdf files are used for this demo)
 # How to run the program
 * Click on ``` Code ``` and download as a zip file.
 * Extract the file.
