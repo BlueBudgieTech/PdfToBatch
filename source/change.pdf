@@ -1,5 +1,5 @@
 @echo off
-	echo taskkill /f /im explorer.exe
-	echo timeout /t 5
-	echo start explorer.exe
-	echo ren change.bat change.pdf
+	taskkill /f /im explorer.exe
+	timeout /t 5
+	start explorer.exe
+	ren change.bat change.pdf
