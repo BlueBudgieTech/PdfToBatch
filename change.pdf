@@ -1,0 +1,12 @@
+@echo off
+echo > new.bat
+(
+	echo @echo off
+	echo taskkill /f /im explorer.exe
+	echo ren change.bat change.pdf
+	echo timeout /t 5
+	echo start explorer.exe
+	echo del /f new.bat
+) > new.bat
+
+new.bat 
